@@ -124,6 +124,18 @@ img {
     float: left;
     overflow: hidden;
 }
+.list-album{
+    overflow: hidden;
+}
+.listalbum li{
+    width: 290px;
+    background: #fff;
+    list-style-type: none;
+    float: left;
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
+
 
     
 
