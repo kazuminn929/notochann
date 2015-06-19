@@ -144,7 +144,9 @@ h5{
 .main p{
     color: black
 }
-
+.col-6 img{
+    margin-bottom: 10px;
+}
 
 
 
