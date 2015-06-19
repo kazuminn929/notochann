@@ -105,13 +105,16 @@ h1{
     margin-left: 10px;
     float: left;
     background: #fff;
+    
 }
+.container{width: 900px; margin: auto;}
 img {
     float: left;
     margin-right: 10px;
     margin-top: 25px;
     width: 160px;
     height: 120px;
+   
 }
 .col-6 {
     width: 600px;
